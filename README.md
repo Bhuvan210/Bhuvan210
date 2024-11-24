@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bhuvan!
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Web+Developer;AI+Enthusiast+%26+Blockchain+Explorer!;Let's+collaborate+and+create+impact!)
+
 Welcome to my GitHub profile! I'm passionate about **web development, AI, and decentralized technologies**. Here's a bit more about me:
 
 ---
 
 ## 🌟 About Me
-- 🌱 Currently learning: **AI-driven decentralized finance and blockchain on Polygon**
-- 🎯 Focused on building: **SkillMingle**, a freelancer collaboration platform
 - 📚 Working on: Online learning platforms for impactful education
 
 ---
@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm passionate about **web development, AI, and de
 
 ## 🌐 Connect With Me
 - 🌍 [My Website/Portfolio](#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bhuvan-sriram-chinnapangu-480bbb256))
+- ✖️ [X (formerly Twitter)](https://x.com/Bhuvan_sriram9)
 
 ---
 
