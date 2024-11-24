@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bhuvan!;Welcome+to+my+GitHub!;I+am+a+Web+Developer;AI+Enthusiast+%26+Blockchain+Explorer!;Let's+collaborate+and+create+impact!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Bhuvan!;Welcome+to+my+GitHub!;I+am+a+Web+Developer;AI+Enthusiast+%26+Blockchain+Explorer!;Let%27s+collaborate+and+create+impact!)
+
 
 ---
 
@@ -27,7 +28,7 @@
 
 ## 🌐 Connect With Me
 - 🌍 [My Website/Portfolio](#)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bhuvan-sriram-chinnapangu-480bbb256))
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhuvan-sriram-chinnapangu-480bbb256)
 - ✖️ [X (formerly Twitter)](https://x.com/Bhuvan_sriram9)
 
 ---
