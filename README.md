@@ -8,6 +8,10 @@
 - 🌱 Currently learning: **AI-driven decentralized finance and blockchain on Polygon**.
 - 📚 Working on: Online learning platforms for impactful education
 
+### 🚀 Fun Facts:
+- 👾 I'm learning how to integrate AI into everyday applications.
+- 🎮 When I'm not coding, I love gaming and exploring new tech trends.
+
 ---
 
 ## 🚀 Skills and Tools
