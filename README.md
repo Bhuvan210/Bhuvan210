@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Bhuvan!
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Web+Developer;AI+Enthusiast+%26+Blockchain+Explorer!;Let's+collaborate+and+create+impact!)
-
-Welcome to my GitHub profile! I'm passionate about **web development, AI, and decentralized technologies**. Here's a bit more about me:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bhuvan!;Welcome+to+my+GitHub!;I+am+a+Web+Developer;AI+Enthusiast+%26+Blockchain+Explorer!;Let's+collaborate+and+create+impact!)
 
 ---
 
